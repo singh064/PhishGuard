@@ -1,0 +1,14 @@
+[
+  "url_length",
+  "domain_length",
+  "num_dots",
+  "num_hyphens",
+  "num_digits",
+  "is_https",
+  "has_ip_address",
+  "num_suspicious_keywords",
+  "num_subdomains",
+  "has_at_symbol",
+  "num_special_chars",
+  "has_redirection"
+]
